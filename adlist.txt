@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 7
+# Domains: 11
 # ======================================================
 
 # [YouTube]
@@ -13,7 +13,11 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 googletagservices.com
 0.0.0.0 gads.pubmatic.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 spclient.wg.spotify.com
 
 # [Ads]
 0.0.0.0 ss-static.com
 0.0.0.0 www.ss-static.com
+0.0.0.0 swayshosshun.icu
+0.0.0.0 www.swayshosshun.icu
