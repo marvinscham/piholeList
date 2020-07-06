@@ -1,0 +1,19 @@
+# Host file to block ads, tracking, etc.
+# Title: gerne's Blacklist
+# Expires: 1 days
+# Hosts contributed by Marvin Scham <dev@marvinscham.de>
+# Domains: 7
+# ======================================================
+
+# [YouTube]
+0.0.0.0 manifest.googlevideo.com
+
+# [Spotify]
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 googletagservices.com
+0.0.0.0 gads.pubmatic.com
+
+# [Ads]
+0.0.0.0 ss-static.com
+0.0.0.0 www.ss-static.com
