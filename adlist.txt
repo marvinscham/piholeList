@@ -2,11 +2,12 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 11
+# Domains: 12
 # ======================================================
 
 # [YouTube]
 0.0.0.0 manifest.googlevideo.com
+0.0.0.0 r5---sn-4g5e6nsk.googlevideo.com
 
 # [Spotify]
 0.0.0.0 pubads.g.doubleclick.net
