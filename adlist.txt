@@ -2,37 +2,39 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 25
+# Domains: 27
 # ======================================================
 
 # [Unwanted]  - 7
-0.0.0.0 roomimg.stream.highwebmedia.com
-0.0.0.0 stream.highwebmedia.com
-0.0.0.0 highwebmedia.com
-0.0.0.0 www.highwebmedia.com
-0.0.0.0 t.hrtyk.com
-0.0.0.0 hrtyk.com
-0.0.0.0 www.hrtyk.com
+roomimg.stream.highwebmedia.com
+stream.highwebmedia.com
+highwebmedia.com
+www.highwebmedia.com
+t.hrtyk.com
+hrtyk.com
+www.hrtyk.com
 
 # [Spotify] - 6
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 googletagservices.com
-0.0.0.0 gads.pubmatic.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 spclient.wg.spotify.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+googletagservices.com
+gads.pubmatic.com
+ads.pubmatic.com
+spclient.wg.spotify.com
 
-# [Ads] - 7
-0.0.0.0 ss-static.com
-0.0.0.0 www.ss-static.com
-0.0.0.0 swayshosshun.icu
-0.0.0.0 www.swayshosshun.icu
-0.0.0.0 contentabc.com
-0.0.0.0 www.contentabc.com
+# [Ads] - 9
+ss-static.com
+www.ss-static.com
+swayshosshun.icu
+www.swayshosshun.icu
+contentabc.com
+www.contentabc.com
+imglnkd.com
+www.imglnkd.com
 
 # [Suspicious] - 5
-0.0.0.0 958482176.stroy-kmv.ru
-0.0.0.0 243086973.tukan-tex.ru
-0.0.0.0 laingriz9.live
-0.0.0.0 cbmiocw.com
-0.0.0.0 www.cbmiocw.com
+958482176.stroy-kmv.ru
+243086973.tukan-tex.ru
+laingriz9.live
+cbmiocw.com
+www.cbmiocw.com
