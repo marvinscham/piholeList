@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 12
+# Domains: 13
 # ======================================================
 
 # [Spotify] - 6
@@ -13,10 +13,11 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 spclient.wg.spotify.com
 
-# [Ads] - 6
+# [Ads] - 7
 0.0.0.0 ss-static.com
 0.0.0.0 www.ss-static.com
 0.0.0.0 swayshosshun.icu
 0.0.0.0 www.swayshosshun.icu
 0.0.0.0 contentabc.com
 0.0.0.0 www.contentabc.com
+0.0.0.0 media.celebmasta.com
