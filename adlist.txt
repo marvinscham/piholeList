@@ -2,10 +2,17 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 16
+# Domains: 25
 # ======================================================
 
-# [Unwanted] - 1
+# [Unwanted]  - 7
+0.0.0.0 roomimg.stream.highwebmedia.com
+0.0.0.0 stream.highwebmedia.com
+0.0.0.0 highwebmedia.com
+0.0.0.0 www.highwebmedia.com
+0.0.0.0 t.hrtyk.com
+0.0.0.0 hrtyk.com
+0.0.0.0 www.hrtyk.com
 
 # [Spotify] - 6
 0.0.0.0 pubads.g.doubleclick.net
@@ -23,7 +30,9 @@
 0.0.0.0 contentabc.com
 0.0.0.0 www.contentabc.com
 
-# [Suspicious] - 3
+# [Suspicious] - 5
 0.0.0.0 958482176.stroy-kmv.ru
 0.0.0.0 243086973.tukan-tex.ru
 0.0.0.0 laingriz9.live
+0.0.0.0 cbmiocw.com
+0.0.0.0 www.cbmiocw.com
