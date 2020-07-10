@@ -2,8 +2,10 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 13
+# Domains: 16
 # ======================================================
+
+# [Unwanted] - 1
 
 # [Spotify] - 6
 0.0.0.0 pubads.g.doubleclick.net
@@ -20,4 +22,8 @@
 0.0.0.0 www.swayshosshun.icu
 0.0.0.0 contentabc.com
 0.0.0.0 www.contentabc.com
-0.0.0.0 media.celebmasta.com
+
+# [Suspicious] - 3
+0.0.0.0 958482176.stroy-kmv.ru
+0.0.0.0 243086973.tukan-tex.ru
+0.0.0.0 laingriz9.live
