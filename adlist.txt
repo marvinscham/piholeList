@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 27
+# Domains: 29
 # ======================================================
 
 # [Unwanted]  - 7
@@ -22,7 +22,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 9
+# [Ads] - 11
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -31,6 +31,8 @@ contentabc.com
 www.contentabc.com
 imglnkd.com
 www.imglnkd.com
+hqq.tv
+www.hqq.tv
 
 # [Suspicious] - 5
 958482176.stroy-kmv.ru
