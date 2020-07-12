@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 30
+# Domains: 44
 # ======================================================
 
 # [Unwanted]  - 7
@@ -13,6 +13,22 @@ www.highwebmedia.com
 t.hrtyk.com
 hrtyk.com
 www.hrtyk.com
+
+# [Samsung] - 14
+acr0.samsungcloudsolution.com
+samsungotn.net
+www.samsungotn.net
+osb.samsungqbe.com
+otn.samsungcloudcdn.com
+otnprd8.samsungcloudsolution.net
+notice.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+configprd.samsungcloudsolution.net
+multiscreen.samsung.com
+samsungrm.net
+www.samsungrm.net
+osb-apps.samsungqbe.com
+empdownprd.samsungcloudsolution.com
 
 # [Spotify] - 6
 pubads.g.doubleclick.net
