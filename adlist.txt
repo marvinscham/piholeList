@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 51
+# Domains: 53
 # ======================================================
 
 # [Unwanted]  - 11
@@ -59,9 +59,11 @@ t.grtya.com
 grtya.com
 www.grtya.com
 
-# [Suspicious] - 5
+# [Suspicious] - 7
 958482176.stroy-kmv.ru
 243086973.tukan-tex.ru
 laingriz9.live
 cbmiocw.com
 www.cbmiocw.com
+rauschmittel10.live
+www.rauschmittel10.live
