@@ -2,10 +2,10 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 44
+# Domains: 51
 # ======================================================
 
-# [Unwanted]  - 7
+# [Unwanted]  - 11
 roomimg.stream.highwebmedia.com
 stream.highwebmedia.com
 highwebmedia.com
@@ -13,6 +13,10 @@ www.highwebmedia.com
 t.hrtyk.com
 hrtyk.com
 www.hrtyk.com
+wimages.skyprivate.com
+s3widgets.skyprivate.com
+skyprivate.com
+www.skyprivate.com
 
 # [Samsung] - 14
 acr0.samsungcloudsolution.com
@@ -38,7 +42,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 12
+# [Ads] - 15
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -51,6 +55,9 @@ hqq.tv
 www.hqq.tv
 c.d1272serve.xyz
 d1272serve.xyz
+t.grtya.com
+grtya.com
+www.grtya.com
 
 # [Suspicious] - 5
 958482176.stroy-kmv.ru
