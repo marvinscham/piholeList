@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 56
+# Domains: 58
 # ======================================================
 
 # [Unwanted]  - 11
@@ -42,7 +42,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 15
+# [Ads] - 17
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -58,6 +58,8 @@ d1272serve.xyz
 t.grtya.com
 grtya.com
 www.grtya.com
+ephpnmr9ffzypnw.ru
+www.ephpnmr9ffzypnw.ru
 
 # [Suspicious] - 10
 958482176.stroy-kmv.ru
