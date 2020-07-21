@@ -2,14 +2,10 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 58
+# Domains: 54
 # ======================================================
 
-# [Unwanted]  - 11
-roomimg.stream.highwebmedia.com
-stream.highwebmedia.com
-highwebmedia.com
-www.highwebmedia.com
+# [Unwanted]  - 7
 t.hrtyk.com
 hrtyk.com
 www.hrtyk.com
