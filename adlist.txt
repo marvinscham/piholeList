@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 67
+# Domains: 70
 # ======================================================
 
 # [Unwanted]  - 7
@@ -64,6 +64,11 @@ www.serverable.com
 img.dlsite.jp
 dlsite.jp
 www.dlsite.jp
+
+# [Malware] - 3
+mqad.2track.info
+2track.info
+www.2track.info
 
 # [Gambling] - 2
 sunmaker.com
