@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 64
+# Domains: 67
 # ======================================================
 
 # [Unwanted]  - 7
@@ -38,7 +38,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 22
+# [Ads] - 25
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -61,6 +61,9 @@ fgn.cdn.serverable.com
 cdn.serverable.com
 serverable.com
 www.serverable.com
+img.dlsite.jp
+dlsite.jp
+www.dlsite.jp
 
 # [Gambling] - 2
 sunmaker.com
