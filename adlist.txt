@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 70
+# Domains: 72
 # ======================================================
 
 # [Unwanted]  - 7
