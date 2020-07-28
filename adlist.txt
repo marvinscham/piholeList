@@ -2,10 +2,10 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 79
+# Domains: 81
 # ======================================================
 
-# [Unwanted]  - 7
+# [Unwanted] - 9
 t.hrtyk.com
 hrtyk.com
 www.hrtyk.com
@@ -13,6 +13,8 @@ wimages.skyprivate.com
 s3widgets.skyprivate.com
 skyprivate.com
 www.skyprivate.com
+misspkl.com
+www.misspkl.com
 
 # [Samsung] - 14
 acr0.samsungcloudsolution.com
