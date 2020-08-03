@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 83
+# Domains: 87
 # ======================================================
 
 # [Unwanted] - 9
@@ -40,7 +40,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 34
+# [Ads] - 38
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -75,6 +75,10 @@ wbah.sehtjv.com
 sehtjv.com
 www.sehtjv.com
 ylsqli.sehtjv.com
+beta.tidint.pro
+tidint.pro
+www.tidint.pro
+mr.tidint.pro
 
 # [Malware] - 3
 mqad.2track.info
