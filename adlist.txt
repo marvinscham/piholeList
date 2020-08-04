@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 93
+# Domains: 131
 # ======================================================
 
 # [Unwanted] - 9
@@ -40,7 +40,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 38
+# [Ads] - 76
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -79,6 +79,44 @@ beta.tidint.pro
 tidint.pro
 www.tidint.pro
 mr.tidint.pro
+ad.988aiai.com
+cbu01.alicdn.com
+pic.cytcm.com
+1990tu.com
+www.1990tu.com
+982084.com
+www.982084.com
+1789826.com
+www.1789826.com
+5596868.com
+www.5596868.com
+98201111.com
+www.98201111.com
+mdzl120.com
+www.mdzl120.com
+9304b.com
+www.9304b.com
+pai.508606.com
+508606.com
+www.508606.com
+240vv.com
+www.240vv.com
+459273.com
+www.459273.com
+7969558.com
+www.7969558.com
+download.909app7.com
+909app7.com
+www.909app7.com
+download.923wap9.com
+923wap9.com
+www.923wap9.com
+ttsstz.com
+www.ttsstz.com
+9700hg.com
+www.9700hg.com
+mmfftz.com
+www.mmfftz.com
 
 # [Malicious] - 9
 mqad.2track.info
