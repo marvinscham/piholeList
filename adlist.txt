@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 87
+# Domains: 90
 # ======================================================
 
 # [Unwanted] - 9
@@ -80,10 +80,13 @@ tidint.pro
 www.tidint.pro
 mr.tidint.pro
 
-# [Malware] - 3
+# [Malicious] - 6
 mqad.2track.info
 2track.info
 www.2track.info
+digma-plane-4g-7580s-firmware.usnai.ru
+usnai.ru
+www.usnai.ru
 
 # [Gambling] - 2
 sunmaker.com
