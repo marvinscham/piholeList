@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 133
+# Domains: 144
 # ======================================================
 
 # [Unwanted] - 9
@@ -40,7 +40,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 78
+# [Ads] - 89
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -119,6 +119,17 @@ mmfftz.com
 www.mmfftz.com
 ae01.alicdn.com
 alou0a46.aliyunyunvip46.com
+bestcontenttrade.top
+www.bestcontenttrade.top
+cdn1.bestcontenttrade.top
+cdn2.bestcontenttrade.top
+cdn3.bestcontenttrade.top
+a.bestcontenttrade.top
+b.bestcontenttrade.top
+bestcontentfood.top
+www.bestcontentfood.top
+a.bestcontentfood.top
+b.bestcontentfood.top
 
 # [Malicious] - 9
 mqad.2track.info
