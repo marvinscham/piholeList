@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 324
+# Domains: 327
 # ======================================================
 
 # [Unwanted] - 9
@@ -40,7 +40,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 86
+# [Ads] - 89
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -127,6 +127,9 @@ bestcontentfood.top
 www.bestcontentfood.top
 a.bestcontentfood.top
 b.bestcontentfood.top
+main.dynsrvcab.com
+dynsrvcab.com
+www.dynsrvcab.com
 
 # [Malicious] - 9
 mqad.2track.info
