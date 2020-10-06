@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 341
+# Domains: 344
 # ======================================================
 
 # [Unwanted] - 13
@@ -138,7 +138,7 @@ track.afcpatrk.com
 afcpatrk.com
 www.afcpatrk.com
 
-# [Malicious] - 11
+# [Malicious] - 14
 mqad.2track.info
 2track.info
 www.2track.info
@@ -150,6 +150,9 @@ neypha29comprad.servebeer.com
 naruto-uzumaki-cosplay-schriftrolle.hebo69ghaz.pgw.jp
 fearlandrail15.live
 www.fearlandrail15.live
+login.mo7kenawy.co
+mo7kenawy.co
+www.mo7kenawy.co
 
 # [Gambling] - 4
 sunmaker.com
