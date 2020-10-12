@@ -2,7 +2,7 @@
 # Title: gerne's Blacklist
 # Expires: 1 days
 # Hosts contributed by Marvin Scham <dev@marvinscham.de>
-# Domains: 344
+# Domains: 353
 # ======================================================
 
 # [Unwanted] - 13
@@ -44,7 +44,7 @@ gads.pubmatic.com
 ads.pubmatic.com
 spclient.wg.spotify.com
 
-# [Ads] - 92
+# [Ads] - 101
 ss-static.com
 www.ss-static.com
 swayshosshun.icu
@@ -137,6 +137,15 @@ www.dynsrvcab.com
 track.afcpatrk.com
 afcpatrk.com
 www.afcpatrk.com
+best2020-games-web1.com
+www.best2020-games-web1.com
+mydailytips.net
+www.mydailytips.net
+adskeeper.com
+www.adskeeper.com
+s-img.adskeeper.co.uk
+adskeeper.co.uk
+www.adskeeper.co.uk
 
 # [Malicious] - 14
 mqad.2track.info
